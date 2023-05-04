@@ -1,4 +1,4 @@
-package com.lrw.datastructure.main;
+package com.lrw.datastructure.test;
 
 import com.lrw.datastructure.entity.Person;
 import com.lrw.datastructure.list.ArrayList;
